@@ -1,0 +1,10 @@
+Install Library:
+
+LiquidCrystal I2C : by Macro Schwartz
+
+CONNECT:
+
+GND --> on Ground env
+VCC --> on 5V (LCD needs more power) 
+SDA[Serial Data] --> on D1
+SCL[Serial Clock] --> on D2
